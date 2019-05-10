@@ -1,0 +1,7 @@
+MANIFEST
+*.pyc
+.project
+.pydevproject
+.settings
+*/target
+.DS_Store

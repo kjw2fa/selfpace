@@ -1,0 +1,3 @@
+[submodule "checker/WebContent/ace-builds"]
+	path = checker/WebContent/ace-builds
+	url = https://github.com/ajaxorg/ace-builds
